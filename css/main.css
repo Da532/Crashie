@@ -1,0 +1,45 @@
+div#header {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #d1d1d1;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    color: #000;
+    background-color: #d1d1d1
+}
+
+h1 {
+    font-size: 2em;
+    cursor: default;
+}
+
+.brand {
+    border-radius: 10%;
+    display: inline-block;
+    max-width: 10em;
+}
+
+h2 {
+    font-weight: normal;
+    border-bottom: 1px solid #380472;
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.75em
+}
+
+.shrink {
+    border-radius: 10%;
+    background-color: #ddd;
+    display: inline-block;
+    max-width: 7em;
+}
+
+.footer {
+    color:#000;
+    background-color: #d1d1d1;
+    padding: 4em;
+}

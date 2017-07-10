@@ -1,1 +1,1 @@
-Crashie.co
+This is the official website for Crashie, created using Bulma. 
